@@ -1,9 +1,21 @@
- ## Objetivo
+ # 🛒 Carrinho de Compras Básico com Node.js
 
- Criar um carrinho de compras baseado no carrinho de compras da shopee, aonde o carrinho armazene itens e faça o cálculo de sub-itens automaticamente
+Este é um projeto simples de **carrinho de compras** desenvolvido com **Node.js**, focado em demonstrar conceitos fundamentais de back-end
 
-    // dominio da aplicação: carrinho de compras
+---
 
- // as entidades representadas
- //-> carrinho = cart.js
- //-> itens = itens.js
+## ✨ Funcionalidades
+
+- Adicionar produtos ao carrinho  
+- Listar produtos no carrinho  
+- Remover produtos do carrinho   
+- Calcular total do pedido automaticamente
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- [Node.js](https://nodejs.org/)
+
+---
+
